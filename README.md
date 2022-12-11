@@ -1,4 +1,9 @@
 # PO Warehouse Manager
 
-Enunciado em:
-https://web.tecnico.ulisboa.pt/~david.matos/w/pt/index.php/Programa%C3%A7%C3%A3o_com_Objectos/Projecto_de_Programa%C3%A7%C3%A3o_com_Objectos/Enunciado_do_Projecto_de_2021-2022
+Projeto da cadeira de Programação com Objetos de LEIC-A. (Ano 2021/2022)
+
+- Compilar: Cada pasta contém um ficheiro Makefile (comando _make_ para compilar)
+
+- Executar: java ggc-app/src/ggc/app/ggc.app.App
+
+- Executar testes: java -Dimport=test.import -Din=test.in -Dout=test.outhyp ggc-app/src/ggc/app/ggc.app.App
