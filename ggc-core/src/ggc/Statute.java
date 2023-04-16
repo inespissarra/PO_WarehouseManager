@@ -3,8 +3,8 @@ package ggc;
 import java.io.Serializable;
 
 public abstract class Statute implements Serializable {
-  protected Partner _partner;
-  protected double _score;
+  private Partner _partner;
+  private double _score;
 
   public Statute(Partner partner, double score) { 
     _partner = partner;
