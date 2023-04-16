@@ -9,4 +9,4 @@ Projeto da cadeira de Programação com Objetos de LEIC-A. (Ano 2021/2022)
 - Executar testes: java -Dimport=test.import -Din=test.in -Dout=test.outhyp ggc-app/src/ggc/app/ggc.app.App
 
 
-Nota: 17.51
+Nota: 17.51 (Desconto de 0.5 por atributos public/protected -> resolvido)
